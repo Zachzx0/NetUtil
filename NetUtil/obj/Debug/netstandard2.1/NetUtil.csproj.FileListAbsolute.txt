@@ -1,0 +1,9 @@
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\bin\Debug\netstandard2.1\NetUtil.deps.json
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\bin\Debug\netstandard2.1\NetUtil.dll
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\bin\Debug\netstandard2.1\NetUtil.pdb
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.1\NetUtil.csprojAssemblyReference.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.1\NetUtil.csproj.CoreCompileInputs.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.1\NetUtil.AssemblyInfoInputs.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.1\NetUtil.AssemblyInfo.cs
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.1\NetUtil.dll
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.1\NetUtil.pdb

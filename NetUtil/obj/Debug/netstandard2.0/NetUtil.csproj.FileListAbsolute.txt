@@ -1,0 +1,17 @@
+D:\CodeSpace\NetTest\NetUtil\NetUtil\bin\Debug\netstandard2.0\NetUtil.deps.json
+D:\CodeSpace\NetTest\NetUtil\NetUtil\bin\Debug\netstandard2.0\NetUtil.dll
+D:\CodeSpace\NetTest\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.AssemblyInfoInputs.cache
+D:\CodeSpace\NetTest\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.AssemblyInfo.cs
+D:\CodeSpace\NetTest\NetUtil\NetUtil\bin\Debug\netstandard2.0\NetUtil.pdb
+D:\CodeSpace\NetTest\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.csproj.CoreCompileInputs.cache
+D:\CodeSpace\NetTest\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.dll
+D:\CodeSpace\NetTest\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.pdb
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\bin\Debug\netstandard2.0\NetUtil.deps.json
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\bin\Debug\netstandard2.0\NetUtil.dll
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\bin\Debug\netstandard2.0\NetUtil.pdb
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.csproj.CoreCompileInputs.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.AssemblyInfoInputs.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.AssemblyInfo.cs
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.dll
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.pdb
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard2.0\NetUtil.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard1.0\NetUtil.csprojAssemblyReference.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard1.0\NetUtil.csproj.CoreCompileInputs.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard1.0\NetUtil.AssemblyInfoInputs.cache
+C:\LocalProgram\NetUtil\NetUtil\NetUtil\obj\Debug\netstandard1.0\NetUtil.AssemblyInfo.cs
